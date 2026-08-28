@@ -519,21 +519,17 @@ body::after {
         padding: 30px;
     }
 
-
     .name h1 {
         font-size: 32px;
     }
-
 
     .contact {
         grid-template-columns: 1fr;
     }
 
-
     .bottom {
         right: 30px;
     }
-
 
     /* Projects */
 
@@ -542,7 +538,6 @@ body::after {
 
         margin-top: 45px;
     }
-
 
     .projects h2 {
         font-size: 24px;
